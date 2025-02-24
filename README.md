@@ -1,0 +1,1 @@
+# django_react_nextjs_CRUD
